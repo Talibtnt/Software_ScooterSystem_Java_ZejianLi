@@ -6,6 +6,7 @@
 2. Put the ScooterSystem folder in a certain path (such as the root directory of the D drive)
 
 3. Place the txt files specified below in the root directory of the D drive:(These files can be found in the "ScooterSystem" folder)
+
       161195012.txt
       161195012Time.txt
       161195399.txt
